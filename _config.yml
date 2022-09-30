@@ -2,16 +2,16 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1442180504                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : #1442180504                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : #assets/appicon.png                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : assets/appicon.png                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Gratuity                                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : #$0.99                                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : $0.99                                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Tip Tracker
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -25,7 +25,7 @@ your_city                                 : Lockport
 email_address                             : DerikMalcolm@icloud.com
 facebook_username                         :
 instagram_username                        :
-twitter_username                          : Fr0mDerik
+twitter_username                          : DerikMalcolm
 github_username                           : FromDerik
 youtube_username                          :
 
